@@ -1,6 +1,6 @@
 # Trending-data-science-book-on-amazon
 
-1. To find the trending data science books I Scraped the data science books available on amazon using selenenium and python.
+1. To find the trending data science books I Scraped the data science books available on amazon using selenium and python.
 
 ###### I got the following informtion 
 
