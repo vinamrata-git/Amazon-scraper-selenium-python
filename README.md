@@ -9,4 +9,4 @@
   * Rating counts
   * Price 
 
-Analysis: If the book is rated by highest number of people and higher stars then we can consider the book is trending and can be essential for data practitioner.
+Analysis: If the book is rated by highest number of people and given higher stars rating then we can consider the book is trending and can be essential for data practitioner.
