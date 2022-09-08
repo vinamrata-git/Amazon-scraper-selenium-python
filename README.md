@@ -61,3 +61,7 @@ I have intended to find the most trending data science books on amazon, and most
   * Rating counts
   * Price 
   * Link of book 
+  
+  # Store the CSV file into SQL 
+  
+  ![alt text](https://github.com/vinamrata-git/Amazon-scraper-selenium-python/blob/main/Img/storedata2sql.png)
