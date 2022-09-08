@@ -1,9 +1,9 @@
 # Web scraping
 
-There are incredible amount of data on the internet which can be used for your personal interest or in the organisations. Most of the time we need the data to find some insights and do some valuable research. by just looking at the data on internet and trying to find some trends, patterns or valuable insights from an enourmous amount is not possible and not worth your time. 
-In the evolution of data science. data is the most valuable asset on which we can rely taking some important decisions in your personal life or in organizations. 
+There are incredible amount of data on the internet which can be used for your personal interest or in the organisations. We need data to find some insights and do some valuable research. by just looking at the data on internet and trying to find some trends, patterns or valuable insights from an enourmous amount is not possible and not worth your time. 
+data is the most valuable asset on which we can rely taking some important decisions in your personal life or in organizations. 
 
-why we should use the data present on internet?
+# why we should use the data present on internet?
 
 Here I have provide some real time use cases why need the data present on internet. 
 1. Use case in day to day life
@@ -13,7 +13,7 @@ Here I have provide some real time use cases why need the data present on intern
 2. Use case in Organisations
     * There are many use cases in the organization where you need to collect the data from online and do some analysis for decision making, finding new trend and patters in the market. customers feedback on a product and so on.
     
-How to collect the data from internet 
+# How to collect the data from internet 
 * We can use webscraping technique to collect data from internet. 
 
 There are enough amount of packages in python to do web scraping such as:
