@@ -5,7 +5,7 @@ data is the most valuable asset on which we can rely taking some important decis
 
 # why we should use the data present on internet?
 
-Here I have provide some real time use cases why need the data present on internet. 
+Here I have given some real time use cases why we need data present on internet. 
 1. Use case in day to day life
     * we buy mostly everything online in this digital era. And to buy something we always need to scroll alot of website and pages to pay attention on the price, quality, and reliability of the product that we want to buy.
     * For example we want to buy a data science book in python or R. What we do is to scroll the online website such as amazon and check the price and reviews of the each book still don't understand if this book is good for us or not. what other people sya about after reading the book. we try to read each reviews and that can be very time consuming and yet we don't know if we are reading the right books reviews because there are many books available on the same topic. 
