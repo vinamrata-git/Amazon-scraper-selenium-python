@@ -8,7 +8,7 @@ data is the most valuable asset on which we can rely taking some important decis
 Here I have given some real time use cases why we need data present on internet. 
 1. Use case in day to day life
     * we buy mostly everything online in this digital era. And to buy something we always need to scroll alot of website and pages to pay attention on the price, quality, and reliability of the product that we want to buy.
-    * For example we want to buy a data science book in python or R. What we do is to scroll the online website such as amazon and check the price and reviews of the each book still don't understand if this book is good for us or not. what other people sya about after reading the book. we try to read each reviews and that can be very time consuming and yet we don't know if we are reading the right books reviews because there are many books available on the same topic. 
+    * For example we want to buy a data science book in python or R. What we do is to scroll the online website such as amazon and check the price and reviews of the each book but still don't understand if this book is good or not. what other people say about after reading the book. we try to read each reviews and that can be very time consuming and yet we don't know if we are reading the right books reviews because there are so many books available on the same topic. 
 
 2. Use case in Organisations
     * There are many use cases in the organization where you need to collect the data from online and do some analysis for decision making, finding new trend and patters in the market. customers feedback on a product and so on.
@@ -39,7 +39,7 @@ How to install selenium:
 pip install selenium
 
 Download web driver:
-If you are using chrome then download the chrome driver from here https://chromedriver.chromium.org/downloads and store it in your computer. later you need to provide a path to where you have stored the seb driver. 
+If you are using chrome then download the chrome driver from here https://chromedriver.chromium.org/downloads and save it in your computer. later you need to provide a path to where you have saved the chrome driver. 
 
 Note: You need to download the same version of web driver of your web browser. For example if you are using chrome of version 93 then download Chrome driver of version 93.0.4577.15 which you can find from the above link.
 
